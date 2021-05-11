@@ -13,4 +13,8 @@
 # Code can be edited directly on GitHub.com using pen icon
 # Changes are then committed to the main branch 
 
-# When you commit changes, you can choose which files you want to update so that you can keep other files secret 
+# When you commit changes, you can choose which files you want to update so that you can keep other files secret (deselect the secret file)
+# OR you can use .gitignore 
+# name file .gotignore 
+# in folder, change file name to remove suffix (.txt or other) 
+# you can use this to avoid committing and pushing files that are too large for GitHub
