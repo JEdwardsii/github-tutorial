@@ -9,3 +9,6 @@
 # After saving the file, the changes will appear in a tab in the desktop app. You can then commit these changes. After committing, you can revert or discard changes. This should revert changes in the file itself as well. 
 
 # If file is too big to commit and an error appears, *DO NOT CLICK COMMIT ANYWAY*
+
+# Code can be edited directly on GitHub.com using pen icon
+# Changes are then commited to the main branch 
