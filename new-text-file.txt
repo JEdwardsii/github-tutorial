@@ -1,1 +1,3 @@
 New text file 
+
+In the same file in the new branch, I will make and commit changes to create a conflict between branches. 
