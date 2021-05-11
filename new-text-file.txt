@@ -2,3 +2,8 @@ New text file
 
 Making a change to new text file in main branch. 
 Then I will have to merge changes with my new branch. 
+
+In the same file in the new branch, I will make and commit changes to create a conflict between branches.
+
+When trying to create a pull request, a conflict will be created. These can then be resolved on GitHub.com.  
+
