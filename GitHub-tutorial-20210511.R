@@ -16,5 +16,5 @@
 # When you commit changes, you can choose which files you want to update so that you can keep other files secret (deselect the secret file)
 # OR you can use .gitignore 
 # name file .gotignore 
-# in folder, change file name to remove suffix (.txt or other) 
+# in folder, change file name to remove suffix (.txt or other). If you don't see the .txt, click the box to show File name extensions in folder View 
 # you can use this to avoid committing and pushing files that are too large for GitHub
