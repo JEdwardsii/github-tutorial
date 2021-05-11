@@ -1,1 +1,4 @@
 New text file 
+
+Making a change to new text file in main branch. 
+Then I will have to merge changes with my new branch. 
