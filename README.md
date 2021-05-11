@@ -10,7 +10,7 @@ This is all *really* **very** exciting.
 
 This is `monospace code`.  
 
-```
-
+```R
+# now copy a block of R code into here 
 ```
 
