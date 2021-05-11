@@ -11,4 +11,6 @@
 # If file is too big to commit and an error appears, *DO NOT CLICK COMMIT ANYWAY*
 
 # Code can be edited directly on GitHub.com using pen icon
-# Changes are then commited to the main branch 
+# Changes are then committed to the main branch 
+
+# When you commit changes, you can choose which files you want to update so that you can keep other files secret 
