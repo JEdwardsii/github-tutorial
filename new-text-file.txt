@@ -7,3 +7,4 @@ In the same file in the new branch, I will make and commit changes to create a c
 
 When trying to create a pull request, a conflict will be created. These can then be resolved on GitHub.com.  
 
+Hi Jena, how are you?
